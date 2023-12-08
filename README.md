@@ -1,1 +1,1 @@
-# ClairaTech Organisation
+# ClairaTech
